@@ -7,6 +7,7 @@
 ## Installation
 
 Currently build is only available for Linux systems, download the compiled package and run by providing required parameters.
+You can get the binary from [releases](https://github.com/rijoth/txt2pdf/releases/tag/v0.1) page.
 
 **Other Systems:**
 clone the repository and run go build command
