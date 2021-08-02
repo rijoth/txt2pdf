@@ -1,3 +1,10 @@
+/*
+ * Author: Rijo Thomas
+ * Email: rijothomas64@gmail.com 
+ * Purpose: Convert textfiles to pdf.
+ * Language: go
+ */
+
 package main
 
 import (
